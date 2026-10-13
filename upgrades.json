@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Health Boost",
+    "description": "Increase max health",
+    "rarity": "Common",
+    "type": "stat"
+  },
+  {
+    "name": "Fireball",
+    "description": "Unlock the Fireball ability.",
+    "rarity": "Epic",
+    "type": "ability"
+  },
+  {
+    "name": "Health Regen Boost",
+    "description": "Passively regenerate health",
+    "rarity": "Epic",
+    "type": "stat"
+  },
+  {
+    "name": "Max Stamina Boost",
+    "description": "Increase max Stamina",
+    "rarity": "Common",
+    "type": "stat"
+  },
+  {
+    "name": "Stamina Regen Boost",
+    "description": "Increase stamina regen.",
+    "rarity": "Common",
+    "type": "stat"
+  },
+  {
+    "name": "Speed Boost",
+    "description": "Increase max speed",
+    "rarity": "Common",
+    "type": "stat"
+  },
+  {
+    "name": "Attack Speed Boost",
+    "description": "Decrease attack cooldown",
+    "rarity": "Common",
+    "type": "stat"
+  }
+]
